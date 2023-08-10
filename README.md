@@ -8,7 +8,6 @@ Welcome to the Instagram Clone project! This project aims to replicate some of t
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Description
