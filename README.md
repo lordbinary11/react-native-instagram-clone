@@ -27,7 +27,7 @@ Note that I'm still working on some of these features, as you will know as you e
 ## Installation
 Follow these steps to get the Instagram Clone project up and running on your local machine:
 
-1. Clone the repository: `git clone https://github.com/lordbinary11/reat-native-instagram-clone`
+1. Clone the repository: `git clone https://github.com/lordbinary11/react-native-instagram-clone.git`
 2. Navigate to the project directory: `cd react-native-instagram-clone`
 3. Install dependencies: `npm install` (or `yarn install` if using Yarn)
 4. Configure the database settings in `config.js`
